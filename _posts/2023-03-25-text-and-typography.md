@@ -2,8 +2,8 @@
 title: Text and Typography in Chirpy
 author: cotes
 date: 2023-03-25 11:33:00 +0800
-categories: [Blog, Tutorial]
-tags: [Chirpy, tutorial]
+categories: [本站相关, 使用指南]
+tags: [Chirpy, tutorial, en]
 math: true
 mermaid: true
 image:

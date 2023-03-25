@@ -2,8 +2,8 @@
 title: Writing a New Post in Chirpy
 author: cotes
 date: 2023-03-25 14:10:00 +0800
-categories: [Blog, Tutorial]
-tags: [Chirpy, tutorial]
+categories: [本站相关, 使用指南]
+tags: [Chirpy, tutorial, en]
 render_with_liquid: false
 ---
 
