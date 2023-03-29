@@ -2,6 +2,7 @@
 title: MacBook & Jekyll & Github Page & Chirpy静态博客搭建过程
 author: huan
 date: 2023-03-27 13:10:00 +0800
+last_modified_at: 2023-03-28 13:10:00 +0800
 categories: [本站相关, 网站搭建]
 tags: [Chirpy, tutorial, zh-CN]
 math: true
@@ -46,7 +47,7 @@ math: true
 
 	4.2 生成公私钥
 		`ssh-keygen -t rsa -C "mail@xx.com"`
-		![generate key](/assets/img/blog/20230327/generate_key.png){: .center .w-75 .shadow .rounded-10 w='1212' h='668' }
+		![generate key](/assets/img/blog/20230327/generate_key.png){: .center .shadow .rounded-10 w='672'}
 
 	4.3 复制获得的公钥信息至github（添加位置：点击头像 => settings => SSH and GPG keys => New SSH key）
 	
